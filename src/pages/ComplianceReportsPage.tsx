@@ -84,7 +84,7 @@ export default function ComplianceReportsPage() {
     <Container sx={{ py: 3 }}>
       <Stack gap={4}>
         <PageHeader
-          pageTitle="Connected Compliance 5000"
+          pageTitle="Connected Compliance"
           pageSubtitle="Compliance posture across Speak Up, Policy Manager, and Training"
           breadcrumbs={
             <OverflowBreadcrumbs

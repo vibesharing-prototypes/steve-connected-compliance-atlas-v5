@@ -1,4 +1,7 @@
 node_modules
 dist
-.env*.local
-*.tsbuildinfo
+package-lock.json
+pnpm-lock.yaml
+
+# Local Netlify folder
+.netlify
